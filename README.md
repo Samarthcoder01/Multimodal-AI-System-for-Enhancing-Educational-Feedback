@@ -48,5 +48,3 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - Thanks to the developers of YOLO and GPT-4 for their incredible tools that made this project possible.
 - Special thanks to educators and researchers for their invaluable insights and feedback during the development phase.
 
-## Author 
-Samarth Jadhav
